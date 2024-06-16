@@ -7,7 +7,7 @@ import (
 
 const (
 	OOREDOO = "Ooredoo"
-	ATOM    = "Telenor"
+	ATOM    = "ATOM"
 	MPT     = "MPT"
 	MYTEL   = "MyTel"
 	UNKNOWN = "Unknown"
