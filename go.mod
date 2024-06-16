@@ -1,3 +1,3 @@
-module github.com/devnla/mm_phone
+module github.com/devnla/mmphone
 
 go 1.22.2
