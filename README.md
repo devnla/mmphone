@@ -8,7 +8,7 @@
 Install `mmphone` with the following command
 
 ```bash
-    go get github.com/devnla/mmphone
+go get github.com/devnla/mmphone
 ```
     
 ## Usage/Examples
@@ -63,7 +63,7 @@ func main() {
 To run tests, run the following command
 
 ```bash
-	go test
+go test
 ```
 
 
